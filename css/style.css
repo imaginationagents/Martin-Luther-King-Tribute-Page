@@ -1,0 +1,27 @@
+img{max-width:50%;
+  margin: 0 25%;
+  
+}
+    body{
+      background-color:grey;
+    }
+    h1{
+      font-size:60px;
+      font-family:Bitter;
+      color:black;
+      
+        
+      
+    }
+    
+    li{
+      font-size:30px
+    }
+    a{
+      font-style:Bitter;
+      font-size:40px;
+      color:#ECF0F1;
+      text-decoration:none; 
+    }
+    
+   
